@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "lulu.",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-01-13T12:53:52.314348Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bang Bang Lulu",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/01_Bang_Bang_Lulu_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Lulu",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/02_It's_Lulu_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby Lulu",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/03_Baby_Lulu_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zulu Lulu",
+      "artist": "Bruce Dickinson",
+      "has_synced": false,
+      "path": "select/04_Zulu_Lulu_Bruce_Dickinson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ciao Lulu'",
+      "artist": "Umberto Tozzi",
+      "has_synced": true,
+      "path": "select/05_Ciao_Lulu'_Umberto_Tozzi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby Lulu Demo",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/06_Baby_Lulu_Demo_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lulu' e Marlene (live)",
+      "artist": "Litfiba",
+      "has_synced": true,
+      "path": "select/07_Lulu'_e_Marlene_(live)_Litfiba.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lulu' & Marlene",
+      "artist": "Dolcenera",
+      "has_synced": true,
+      "path": "select/08_Lulu'_&_Marlene_Dolcenera.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lulù & Marlene",
+      "artist": "Dolcenera",
+      "has_synced": true,
+      "path": "select/09_Lulù_&_Marlene_Dolcenera.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lulù & Marlene (Live in Modena 23/03/1995)",
+      "artist": "Litfiba",
+      "has_synced": true,
+      "path": "select/10_Lulù_&_Marlene_(Live_in_Modena_23_03_1995)_Litfiba.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lulù e Marlène",
+      "artist": "Litfiba",
+      "has_synced": true,
+      "path": "select/11_Lulù_e_Marlène_Litfiba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Interior Lulu",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/12_Interior_Lulu_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Interior Lulu",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/13_Interior_Lulu_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lulu",
+      "artist": "Rancid",
+      "has_synced": true,
+      "path": "select/14_Lulu_Rancid.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lulu' E Marlene",
+      "artist": "Litfiba",
+      "has_synced": true,
+      "path": "select/15_Lulu'_E_Marlene_Litfiba.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lulu' e Marlene",
+      "artist": "Litfiba",
+      "has_synced": true,
+      "path": "select/16_Lulu'_e_Marlene_Litfiba.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lulu Espidachi",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/17_Lulu_Espidachi_Papa_Roach.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lulu",
+      "artist": "Manolo Muñoz",
+      "has_synced": true,
+      "path": "select/18_Lulu_Manolo_Muñoz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lulu.",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_lulu._Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
